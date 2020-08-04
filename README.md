@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Rafael Pompeu
 
 ## About Me:
-Student of Computer Engineering Course Federal University of Pará.
+Student of Computer Engineering (40%) Federal University of Pará.
 
 
 - 🔭 I’m currently working with Node.JS, Python, R.
